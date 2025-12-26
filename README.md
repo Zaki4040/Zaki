@@ -1,7 +1,7 @@
 <md lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title> -Academic Homepage</title>
+  <title> Zakirullah-Academic Homepage</title>
 
   <style>
     body {
