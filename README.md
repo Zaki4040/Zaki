@@ -302,22 +302,7 @@
 
   </ul>
 </section>
-<section>
-  <h2>Manuscripts Under Review</h2>
-  <ul>
-    <li>
-      <strong>Zakirullah</strong>, Li, L., Shah, K.
-      Stability and bifurcation analysis of a fractional-order phage–bacteria interaction model.
-      <em>Manuscript under review</em>, 2025.
-    </li>
 
-    <li>
-      <strong>Zakirullah</strong>.
-      Optimal control strategies for vector-borne disease models with nonlinear incidence.
-      <em>Manuscript submitted</em>, 2025.
-    </li>
-  </ul>
-</section>
   </div>
 </body>
 </html>
