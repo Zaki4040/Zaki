@@ -179,27 +179,79 @@
 </section>
 
 
-    <!-- Publications -->
-    <section>
-      <h2>Selected Publications</h2>
-      <ul>
-        <li>
-          Zakirullah. Measles disease spread and control via vaccination and treatment:
-          A mathematical framework.
-          <em>Chaos, Solitons & Fractals</em>, Vol. 203, 2026.
-          <a href="https://doi.org/10.1016/j.chaos.2025.117703">DOI</a>
-          <a href="m.pdf">PDF</a>
-        </li>
+<!-- Publications -->
+<section>
+  <h2>Selected Publications</h2>
+  <ul>
 
-        <li>
-          Zakirullah, Lu, C., Li, L. et al.
-          Mathematical insights into chaos in fractional-order fishery model.
-          <em>Modeling Earth Systems and Environment</em>, 11, 201 (2025).
-          <a href="https://doi.org/10.1007/s40808-025-02375-2">DOI</a>
-          <a href="k.pdf">PDF</a>
-        </li>
-      </ul>
-    </section>
+    <li>
+      <strong>Zakirullah</strong>, Li, L., Shah, K., Abdalla, B., Abdeljawad, T.
+      Using treatment and vaccination strategies to investigate transmission dynamics of an influenza mathematical model.
+      <em>Ain Shams Engineering Journal</em>,
+      Volume 16, Issue 9, September 2025, Article 103519.
+      <a href="https://doi.org/10.1016/j.asej.2025.103519" target="_blank">DOI</a>
+    </li>
+
+    <li>
+      <strong>Zakirullah</strong>.
+      Measles disease spread and control via vaccination and treatment:
+      A mathematical framework.
+      <em>Chaos, Solitons & Fractals</em>,
+      Volume 203, 2026.
+      <a href="https://doi.org/10.1016/j.chaos.2025.117703" target="_blank">DOI</a>
+    </li>
+
+    <li>
+      <strong>Zakirullah</strong>, Lu, C., Li, L., et al.
+      Mathematical insights into chaos in a fractional-order fishery model.
+      <em>Modeling Earth Systems and Environment</em>,
+      11, 201 (2025).
+      <a href="https://doi.org/10.1007/s40808-025-02375-2" target="_blank">DOI</a>
+    </li>
+
+    <li>
+      <strong>Zakirullah</strong>.
+      A mathematical model of pneumococcal pneumonia infection dynamics using treatment and vaccination interventions.
+      <em>International Journal of Applied and Computational Mathematics</em>,
+      11, 112 (2025).
+      <a href="https://doi.org/10.1007/s40819-025-01928-4" target="_blank">DOI</a>
+    </li>
+
+    <li>
+      Ullah, Z. (<strong>Zakirullah</strong>).
+      Analytical solution of the mathematical model of dengue fever by the Laplace–Adomian decomposition method.
+      <em>Communications in Nonlinear Analysis</em>, 2023.
+      <a href="https://www.cna-journal.com/article_174090.html" target="_blank">Journal link</a>
+    </li>
+
+    <li>
+      Sinan, M., Ansari, K. J., Kanwal, A., Shah, K., Abdeljawad, T.,
+      <strong>Zakirullah</strong>, Abdalla, B.
+      Analysis of the mathematical model of cutaneous leishmaniasis disease.
+      <em>Alexandria Engineering Journal</em>,
+      Volume 72, 1 June 2023, Pages 117–134.
+      <a href="https://doi.org/10.1016/j.aej.2023.03.065" target="_blank">DOI</a>
+    </li>
+
+    <li>
+      <strong>Zakirullah</strong>.
+      Numerical solution for HIV infection of CD4<sup>+</sup> T cells using Taylor series method,
+      Runge–Kutta and Adams–Bashforth methods.
+      <em>Journal of Fractional Calculus and Nonlinear Systems</em>,
+      3(2), 2022.
+      <a href="https://doi.org/10.48185/jfcns.v3i2.603" target="_blank">DOI</a>
+    </li>
+
+    <li>
+      Eiman, A., <strong>Zakirullah</strong>, Rahman, N. U., Ullah, F.
+      Computation of approximate solution to COVID-19 mathematical model.
+      <em>Journal of Mathematical Analysis and Modeling</em>,
+      2(3), 2021.
+      <a href="https://doi.org/10.48185/jmam.v2i3.347" target="_blank">DOI</a>
+    </li>
+
+  </ul>
+</section>
 
   </div>
 </body>
