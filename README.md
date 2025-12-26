@@ -185,20 +185,20 @@
   <ul>
 
     <li>
-      <strong>Zakirullah</strong>, Li, L., Shah, K., Abdalla, B., Abdeljawad, T.
-      Using treatment and vaccination strategies to investigate transmission dynamics of an influenza mathematical model.
-      <em>Ain Shams Engineering Journal</em>,
-      Volume 16, Issue 9, September 2025, Article 103519.
-      <a href="https://doi.org/10.1016/j.asej.2025.103519" target="_blank">DOI</a>
-    </li>
-
-    <li>
       <strong>Zakirullah</strong>.
       Measles disease spread and control via vaccination and treatment:
       A mathematical framework.
       <em>Chaos, Solitons & Fractals</em>,
       Volume 203, 2026.
       <a href="https://doi.org/10.1016/j.chaos.2025.117703" target="_blank">DOI</a>
+    </li>
+    
+    <li>
+      <strong>Zakirullah</strong>, Li, L., Shah, K., Abdalla, B., Abdeljawad, T.
+      Using treatment and vaccination strategies to investigate transmission dynamics of an influenza mathematical model.
+      <em>Ain Shams Engineering Journal</em>,
+      Volume 16, Issue 9, September 2025, Article 103519.
+      <a href="https://doi.org/10.1016/j.asej.2025.103519" target="_blank">DOI</a>
     </li>
 
     <li>
@@ -218,7 +218,7 @@
     </li>
 
     <li>
-      Ullah, Z. (<strong>Zakirullah</strong>).
+      <strong>Zakirullah</strong>.
       Analytical solution of the mathematical model of dengue fever by the Laplace–Adomian decomposition method.
       <em>Communications in Nonlinear Analysis</em>, 2023.
       <a href="https://www.cna-journal.com/article_174090.html" target="_blank">Journal link</a>
