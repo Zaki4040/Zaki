@@ -177,11 +177,63 @@
     Matrix Theory, Numerical Algebra
   </p>
 </section>
+<section>
+  <h2>Accepted Manuscripts</h2>
+  <ul>
+    <li>
+      <strong>Zakirullah</strong>.
+      Stability and sensitivity insights into two-dose HPV vaccination effects.
+      <em>Accepted for publication</em>.
+    </li>
+
+    <li>
+      <strong>Zakirullah</strong>, Lin, H., Liang, L.
+      Theoretical and Computational Analysis of a Novel Fractional-Order Mathematical Model for HIV Transmission Dynamics. Zakirullaha, Kamal Shahb,M. Motawi Khashanc,Bahaaeldin Abdallab, Thabet Abdeljawadb
+      <em>Accepted for publication</em>.
+    </li>
+  </ul>
+</section>
+<section>
+  <h2>Manuscripts Under Review</h2>
+  <ul>
+    <li>
+      <strong>Zakirullah</strong>, Shah, K., Wajed, A., Ahmad, S.
+      Fractional-order mathematical model of Chikungunya virus with optimal control strategy.
+      <em>Under review</em>.
+    </li>
+
+    <li>
+      <strong>Zakirullah</strong>, Shah, K., Ullah, S., Abdalla, B., Abdeljawad, T.
+      Nonlocal epidemic model dynamics: stability and optimal control strategy.
+      <em>Under review</em>.
+    </li>
+
+    <li>
+      <strong>Zakirullah</strong>, Li, L., Khashan, M. M., Abdalla, B., Abdeljawad, T.
+      Analysis of herpes simplex virus using ABC fractional-order dynamics.
+      <em>Under review</em>,
+      <em>Alexandria Engineering Journal</em> (Elsevier).
+    </li>
+
+    <li>
+      <strong>Zakirullah</strong>, Khashan, M. M., Abdalla, B., Abdeljawad, T.
+      Tick-borne encephalitis transmission dynamics: a model-based strategy for epidemic control.
+      <em>Under review</em>,
+      <em>Applied Mathematical Modelling</em>.
+    </li>
+
+    <li>
+      <strong>Zakirullah</strong>, Lin, H., Liang, L.
+      Bifurcation and optimal control analysis of a bacteria–phage interaction mathematical model.
+      <em>Accepted for publication</em>.
+    </li>
+  </ul>
+</section>
 
 
 <!-- Publications -->
 <section>
-  <h2>Selected Publications</h2>
+  <h2>Publications</h2>
   <ul>
 
     <li>
@@ -252,7 +304,22 @@
 
   </ul>
 </section>
+<section>
+  <h2>Manuscripts Under Review</h2>
+  <ul>
+    <li>
+      <strong>Zakirullah</strong>, Li, L., Shah, K.
+      Stability and bifurcation analysis of a fractional-order phage–bacteria interaction model.
+      <em>Manuscript under review</em>, 2025.
+    </li>
 
+    <li>
+      <strong>Zakirullah</strong>.
+      Optimal control strategies for vector-borne disease models with nonlinear incidence.
+      <em>Manuscript submitted</em>, 2025.
+    </li>
+  </ul>
+</section>
   </div>
 </body>
 </html>
